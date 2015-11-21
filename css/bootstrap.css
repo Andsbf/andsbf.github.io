@@ -6596,6 +6596,8 @@ button.close {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  /*Personal change*/
+  float:none
 }
 
 .pull-right {
